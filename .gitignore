@@ -2,7 +2,7 @@
 node_modules
 
 #environment variables
-.env
 
 #vscode
 .vscode
+config.bat
